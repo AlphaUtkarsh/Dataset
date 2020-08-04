@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>gate23.png</filename>
+	<path>/my-project-name/gate23.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>GATE</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>231</ymin>
+			<xmax>449</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
